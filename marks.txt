@@ -1,0 +1,42 @@
+Final Project Marks
+----------------------------------------
+----------------------------------------
+Clear description of your problem: 5/5
+Approach to your problem: 10/10
+Technical execution: 20/25
+Documentation and testing: 4/5
+Presentation of results: 4/5
+Interpretation of results: 10/10
+Overall communication: 5/5
+
+SUBTOTAL: 58/65
+
+Creativity + critical thinking bonus: 2/10
+
+TOTAL: 60/65
+
+----------------------------------------
+General comments
+----------------------------------------
+
+Generally a nice exposition of the relevant concepts.
+A solid project overall, executed fairly well.
+
+I'm not sure the normalization step for the maps was necessary.
+It would've been easier to simply rescale the C_l.
+
+The figures didn't have units! But I very much appreciated Figure 6!
+It was a very nice way to visualize how things were different in
+different parts of the sky.
+
+While overall the code could've used a little bit more
+commenting and documentation, PartitionCode.py was a standout
+in this respect and was very nicely done.
+
+It was a pleasure having the three of you in the class!
+And to Sam and Louis---congratulations on finishing
+up your degrees! I hope all of you have a restful
+and enjoyable summer!
+
+Best,
+Adrian
